@@ -1,0 +1,6 @@
+Rank,Stock,Risk Score,Risk Level,Model Confidence (%),Top Factor
+1,STOCK_E_RISKY,72.2,High Risk,100.0,Large historical price drop (high drawdown) (contribution score: 98/100)
+2,STOCK_C_VOLATILE,51.3,Medium Risk,100.0,Large historical price drop (high drawdown) (contribution score: 73/100)
+3,STOCK_B_MODERATE,28.1,Low Risk,97.8,Large historical price drop (high drawdown) (contribution score: 44/100)
+4,STOCK_D_STABLE2,15.1,Low Risk,100.0,Unstable / spiky trading volume (contribution score: 33/100)
+5,STOCK_A_STABLE,13.4,Low Risk,100.0,Unstable / spiky trading volume (contribution score: 19/100)
